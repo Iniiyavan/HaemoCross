@@ -1,4 +1,4 @@
-# 💉 HaemoCross
+# 🩸 HaemoCross
 
 **AI-driven Smart Blood Donation Platform** ❤️🩸
 
