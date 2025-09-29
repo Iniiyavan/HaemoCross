@@ -7,7 +7,7 @@
 ## 👋 About Me
 Hi! I'm **Iniyavan M** 👨‍💻  
 - 🎓 B.E. Computer Science, Chettinad College of Engineering & Technology  
-- 💻 Frontend Developer & Designer  
+- 💻 FullStack Developer | Frontend Developer | Designer  
 - 🤖 AI Enthusiast & IoT Hobbyist  
 - 🚀 Passionate about creating smart solutions that help people
 
