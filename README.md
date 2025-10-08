@@ -58,11 +58,16 @@ It ensures **urgent blood needs are fulfilled efficiently** through:
 
 ---
 
-## 🖥️Projects:
-- GitHub: [Iniiyavan](https://github.com/Iniiyavan) 🐙
-- LinkedIn: [Iniiyavan](https://www.linkedin.com/in/iniyavan-m-501b782b3) 🔗
-- Portfolio: [My Portfolio](#) 💼
-- Email: [iniyavanoff@gmail.com](mailto:iniyavanoff@gmail.com) 📧
+##  🖥️ Projects
+[**Groom Goo**](https://github.com/Iniiyavan/Groom-Goo/blob/main/README.md)
+
+[**Dream Aura**](https://github.com/Iniiyavan/Dream-Aura/blob/main/README.md)
+
+[**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
+
+[**Forest Fire Detection**](https://github.com/Iniiyavan/Forest-Fire-Detection)
+
+[**Traffic Signal Helmet Compilance**](https://github.com/Iniiyavan/Traffic-Signal-Helmet-Compilance/blob/main/README.md)
 
 ---
 
